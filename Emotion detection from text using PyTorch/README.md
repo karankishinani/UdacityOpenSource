@@ -79,13 +79,8 @@ Emotion: 	😞 Annoyed
 Input Text: 	I want a pizza
 Emotion: 	🍽 Foodie
 
-<<<<<<< HEAD
-Input Text: 	Lets see the match
-Emotion: 	😞 Annoyed
-=======
 Input Text: 	Lets see the game
 Emotion: 	⚽️ Playful
->>>>>>> 7868b88789421aac4a3f22796416843aef90c84d
 
 Input Text: 	I love you Lisa
 Emotion: 	❤️ Loving
